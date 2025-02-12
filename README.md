@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A simple Weather App that you can search any city to know it's weather.
 
 ## Getting Started
 
